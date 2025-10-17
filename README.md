@@ -16,6 +16,27 @@
 
 ---
 
+## 🎓 Diplômes & Certifications
+
+🎓 **Développeuse Web & Web-Mobile** – 2025  
+📌 Formation axée sur la programmation front-end & back-end, bases de données, méthodes agiles, et environnement mainframe.
+
+🎓 **Apple Foundation Program** – 2024  
+📌 Apprentissages en conception d'application mobile, programmation Swift, UX/UI, esprit entrepreneurial.
+
+🎓 **Bachelor Marketing Digital** – 2022-2023  
+📌 Stratégie web, gestion de projet digital, SEO, communication digitale.
+
+🎓 **Licence Cinéma et Audiovisuel** – 2020-2022  
+📌 Analyse filmique, économie de la culture, organisation d’événements (festivals).
+
+🏅 **Certifications**
+- ✅ IBM COBOL Core (2025)
+- ✅ Certification Méthode Agile (2024)
+- ✅ IBM Mainframe & JCL Basics
+
+---
+
 ## 🖥️ Spécialisation COBOL & Mainframe
 
 🧩 **Langage :** COBOL  
@@ -23,10 +44,6 @@
 🗄️ **Base de données :** DB2 (SQL embarqué)  
 ⚙️ **Langage de scripts :** JCL  
 🧪 **Outils :** IBM Developer, z/OS, VSCode (extension Zowe)  
-
-🏆 **Certifications :**  
-- IBM COBOL Core (2025)  
-- Méthode Agile (2024)  
 
 ---
 
