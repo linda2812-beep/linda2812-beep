@@ -1,3 +1,5 @@
+![Bannière](https://github.com/linda2812-beep/linda2812-beep/blob/main/image.jpeg)
+
 # 👋 Bonjour !! Je suis Linda Florella 🚀💻
 
 ## 🧑‍💻 À propos de moi
