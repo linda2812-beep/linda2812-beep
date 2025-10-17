@@ -1,8 +1,9 @@
-!![Bannière](https://raw.githubusercontent.com/linda2812-beep/linda2812-beep/blob/main/Image.jpeg
+![Bannière](https://raw.githubusercontent.com/linda2812-beep/linda2812-beep/main/Image.jpeg)
 
-# 👋 Bonjour !! Je suis Linda Florella 🚀💻
 
-## 🧑‍💻 À propos de moi
+# 👋🏾 Bonjour !! Je suis Linda Florella 🚀💻
+
+## 👩🏽‍💻 À propos de moi
 
 🎓 **Développeuse Web & Web-Mobile** passionnée par la **programmation COBOL** et les **environnements mainframe IBM**  
 💡 Mon parcours allie **création web moderne** (HTML, CSS, React) et **expertise sur des systèmes métiers robustes** utilisés en entreprise depuis des décennies  
