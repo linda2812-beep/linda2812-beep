@@ -82,6 +82,8 @@ J’utilise des technologies variées allant du **COBOL mainframe** aux **langag
 
 ![Statistiques GitHub de Linda](https://github-readme-stats.vercel.app/api?username=linda2812-beep&show_icons=true&theme=github_dark)
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=linda2812-beep&layout=compact&theme=github_dark)
+![Profile Views](https://komarev.com/ghpvc/?username=linda2812-beep&label=Vues%20du%20profil&color=blue)
+
 
 ---
 
